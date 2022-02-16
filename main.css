@@ -36,7 +36,7 @@ body {
   font-family: var(--base-font-family);
 }
 
-/* -----------布局----------- */
+/* -----------布局 git pull = git fetch + git merge----------- */
 .main-container {
   max-width: var(--max-width);
   display: grid;
